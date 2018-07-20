@@ -1,13 +1,13 @@
 {
   "name": "library-test-2018",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Repite 'nunca más' las veces que se le pida",
+  "main": "lib/alanPoe.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "./node_modules/.bin/babel src --out-dir lib"
   },
-  "author": "",
+  "author": "Ámbar",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
