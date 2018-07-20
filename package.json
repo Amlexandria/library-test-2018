@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "./node_modules/.bin/babel src --out-dir lib"
   },
+  "repository": {
+    "type":"git",
+    "url": "https://github.com/Amlexandria/library-test-2018.git"
+  },
   "author": "Ámbar",
   "license": "ISC",
   "devDependencies": {
